@@ -20,6 +20,6 @@
     <a href = "mailto:bruno.10149@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/bruno-luiz-lima-06ab58181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-    ![Snake animation](https://github.com/Bruno-Luiz-dev/Bruno-Luiz-dev/blob/output/github-contribution-grid-snake.svg)
+    ![Snake gif](https://github.com/Bruno-Luiz-dev/Bruno-Luiz-dev/blob/output/github-contribution-grid-snake.svg)
   
   </div
